@@ -6,7 +6,7 @@ Website 3  or 4 pages
 1st page 
 which courses ?
 
-udemy & freecode camp , udacity, scrimba
+udemy & freecode camp , udacity, scrimba, youtube 
 
 2nd page 
 what is relevant ?
