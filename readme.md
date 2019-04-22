@@ -18,3 +18,6 @@ comments about the sections  of each course
 4th page -insights to use for each course 
  eg. brain dump ,  notes,  flashcards,  pomodoro technique .
 
+<!-- 22nd april 2019 - moving forward with design on git branch frontpage-html 
+breaking all items up into elements so we can start coding independently of each other.
+suggest we all get used to leaving comments about our work and adding little notes here for the next person. -->
