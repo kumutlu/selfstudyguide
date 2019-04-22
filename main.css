@@ -1,3 +1,23 @@
 body {
-    background-color: aquamarine;
+    background-color: white;
+    padding: 30px;
+}
+
+img{
+    display: inline-block;
+    width: 100%;
+    height: 60%;
+    z-index: 1000;
+    position: relative;
+}
+.get-Started{
+    /* display: inline-block; */
+    float: left;
+    font-size: 6rem;
+    z-index: 1500;
+    border-radius: 20px;
+    position: absolute;
+    top: 150%;
+    left: 35%;
+
 }
