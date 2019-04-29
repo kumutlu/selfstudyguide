@@ -90,8 +90,9 @@ nav.active .menu-container{
 
 .menu-list{
     margin: 0;
-    padding: 350px 320px 320px 550px;
+    padding: 350px 320px 320px 750px;
     list-style: none;
+    height: 100%;
 }
 
 .menu-item{
