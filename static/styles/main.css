@@ -82,6 +82,8 @@ body{
 nav.active .menu-container{
     transform: translate3d(-0px, 0px, 0px) rotate(0deg);
     background-color: #D2C3C3;
+    opacity: 1;
+    z-index: 2500;
 }
 
 .menu-list{
@@ -116,7 +118,7 @@ nav.active .menu-link{
 
 .menu-toggle{
     /* display: block; */
-    position: absolute;
+    position: fixed;
     background-color: #C4C4C4;
     height: 100px;
     width: 100px;
@@ -125,6 +127,7 @@ nav.active .menu-link{
     border-radius: 50%;
     /* background: transparent; */
     cursor: pointer;
+    z-index: 3000;
 }
 
 .menu-hamburger, .menu-hamburger:before, .menu-hamburger:after{
