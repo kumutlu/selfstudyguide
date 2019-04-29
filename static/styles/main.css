@@ -118,7 +118,13 @@ nav.active .menu-link{
 }
 
 .index-image {
-    background-image: url("../images/max-chen-1182043-unsplash-min-1024x768.jpg");
+
+    
+    
+    
+/* 
+   height: 95vh; */
+    background-image: linear-gradient(0deg,rgba(22, 6, 16, 0.6),rgba(10, 3, 7, 0.6)),url("../images/max-chen-1182043-unsplash-min-1024x768.jpg");
     background-color: #cccccc;
     /* background-position: 50% 50%;; */
     background-repeat: no-repeat;
