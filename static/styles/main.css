@@ -159,7 +159,7 @@ nav.active .menu-link{
 }
 
 .menu.active .menu-hamburger:before{
-    transform: rotate(-45deg);
+    transform: rotate(135deg);
     top: 0px;
 }
 
