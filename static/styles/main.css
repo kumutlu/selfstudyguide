@@ -1,5 +1,5 @@
 
-@import url(https://fonts.googleapis.com/css?family=Rajdhani);
+@import url(https://fonts.googleapis.com/css?family=Rajdhani:400,500,600,700);
 
 html,body {
     margin: 0;
@@ -9,7 +9,57 @@ html,body {
 
 body{
     background-color: #D2C3C3;
+    font-family: 'Rajdhani', sans-serif;
+    
 }
+.index-text2{
+    font-style: normal;
+}
+.textcontent{
+    position: relative;
+}
+.textcontent-heading{
+    display: inline-block;
+    position: absolute;
+    width: 50%;
+    height: 36px;
+    left: 30%;
+    top: 200px;
+    margin-bottom: 70px;
+    
+    
+
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 36px;/* identical to box height */
+    letter-spacing: 0.0235294em;
+    
+    color: #000000;
+    
+}
+.textcontent-paragraph{
+    margin-top: 50px;
+    display: inline-block;
+    position: absolute;
+    width: 868px;
+    height: 432px;
+    left: 30%;
+    top: 300px;
+    
+    
+    font-style: normal;
+    font-weight: normal;
+    font-size: 21px;
+    line-height: 27px;
+    letter-spacing: 0.0235294em;
+    
+    color: #000000;
+    
+}
+
+
+
 
 .menu{
     height:100% ;
@@ -132,8 +182,8 @@ nav.active .menu-link{
     background-position: center;
     /* position: relative; */
     position: absolute;
-    /* width: 1024px;
-    height: 768px;*/
+    /* width: 1024px;*/
+    height: 768px;
     left: 80px; 
     top: 80px;
     right: 80px;
