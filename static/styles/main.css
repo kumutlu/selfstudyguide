@@ -66,6 +66,7 @@ body{
 .menu{
     height:100% ;
     overflow: hidden;
+    
 
 }
 
@@ -78,6 +79,8 @@ body{
     position: absolute;
     transition: all 0.3s ease-in-out;
     font-family: Rajdhani;
+    display: none;
+    
   
 }
 
@@ -93,6 +96,8 @@ nav.active .menu-container{
     padding: 350px 320px 320px 750px;
     list-style: none;
     height: 100%;
+
+    
 }
 
 .menu-item{
