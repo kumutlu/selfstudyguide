@@ -64,7 +64,7 @@ body{
 
 
 .menu{
-    height:100% ;
+   
     overflow: hidden;
     
 
@@ -79,13 +79,13 @@ body{
     position: absolute;
     transition: all 0.3s ease-in-out;
     font-family: Rajdhani;
-    display: none;
     
+     height:100% ;
   
 }
 
 nav.active .menu-container{
-    transform: translate3d(-0px, 0px, 0px) rotate(0deg);
+    /* transform: translate3d(-0px, 0px, 0px) rotate(0deg); */
     background-color: #D2C3C3;
     opacity: 1;
     z-index: 2500;
