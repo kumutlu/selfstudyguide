@@ -1,6 +1,7 @@
 $('.menu-toggle').on('click', function(){
 
   $('.menu').toggleClass('active');
+  $('.main-content').toggleClass('active');
 });
 
 
