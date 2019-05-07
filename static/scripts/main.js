@@ -19,3 +19,19 @@ function myFunction() {
 }
 
 myFunction()
+
+$('.menu-toggle').on('click', function(){
+
+  $('.menu').toggleClass('active');
+
+});
+
+
+$('#myDropdown').on('show.bs.dropdown', function () {
+  // do something…
+})
+
+
+
+
+
