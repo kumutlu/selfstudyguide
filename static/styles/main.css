@@ -66,14 +66,8 @@ body {
 
 }
 
-
-
-
 .menu {
-
     overflow: hidden;
-
-
 }
 
 .menu-container {
@@ -86,11 +80,8 @@ body {
     transition: all 0.3s ease-in-out;
     font-family: Rajdhani;
     display: none;
-
     /* height:100% ; */
-
 }
-
 nav.active .menu-container {
     /* transform: translate3d(-0px, 0px, 0px) rotate(0deg); */
     background-color: #D2C3C3;
@@ -106,15 +97,10 @@ nav.active .menu-container {
     list-style: none;
     /* height: 50%; */
 
-
 }
-
-
 .main-content.active {
     display: none !important;
 }
-
-
 .menu-item {
     padding: 0.3rem 0;
 }
